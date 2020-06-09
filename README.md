@@ -23,5 +23,3 @@ Some filter that can be used:<br>
 6. Apps Size : Filter based on min and max apps size in MB
 
 This chart and table will be automatically updated once you change the filters.
-
-## Thank you
